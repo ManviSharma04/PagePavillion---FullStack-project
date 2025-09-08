@@ -1,24 +1,14 @@
 # 📚 Page Pavilion
 
-Page Pavilion is a **comprehensive online platform for book lovers** designed to transform the online book-shopping experience.  
-It offers a **genre-based bookstore**, **wishlist management**, **blogs & articles**, and **user profiles** — making it more than just a marketplace.  
-It is a **virtual haven for readers** to explore, connect, and celebrate literature in the digital age.  
+**Page Pavilion** is a full-stack web application that reimagines the **online book shopping and discovery experience**.  
+It provides readers with a **genre-based digital bookstore**, a **wishlist system**, an **interactive cart and checkout flow**, and a **personalized user profile** to track their reading journey. Beyond shopping, it enriches the literary experience with **curated blogs, articles, and author insights**, making it not just a bookstore but a **community-driven hub for book lovers**.  
+
+The platform is built using a **modern MERN-inspired stack** — **HTML5, CSS3, JavaScript, Node.js, Express.js, and MongoDB** — ensuring a **responsive, scalable, and interactive user experience** across devices.  
 
 ---
 
-## 🛠 Tech Stack  
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-</div>
-
+## 🛠 Tech Stack in One Line  
+**HTML5 + CSS3 + JavaScript (Frontend) | Node.js + Express.js (Backend) | MongoDB (Database)**  
 ---
 
 ## ✨ Features & Benefits  
